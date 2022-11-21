@@ -20,7 +20,7 @@
 
 ### Beginner Guides
 
-### What is GitHub Blocks?
+### What is GitHub Blocks
 
 ## Blocks
 
