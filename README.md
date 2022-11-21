@@ -38,6 +38,10 @@
 - [Visualize images in a repository](https://github.com/Wattenberger/blocks)
 - [Visualize the sizes of files in a directory](https://github.com/mattrothenberg/directory-size-block)
 
+### Community
+
+
+
 ### Miscellaneous
 
 ## Talks and Videos
