@@ -25,6 +25,14 @@
 
 ## Blocks
 
+### IDE
+
+- [The IDE Block](https://github.com/Krzysztof-Cieslak/IDE-Block)  
+- [The IDE Block: Rust Sample](https://github.com/Krzysztof-Cieslak/RustSample/)  
+- [The IDE Block: .NET Sample](https://github.com/Krzysztof-Cieslak/CSharpSample)  
+- [The IDE Block: Go Sample](https://github.com/Krzysztof-Cieslak/GoSample) 
+- [The IDE Block: Dart Sample](https://github.com/Krzysztof-Cieslak/DartSample) 
+
 ### Visualisations
 
 - [Visualize folders and files in a repository](https://github.com/Wattenberger/blocks)
