@@ -15,6 +15,8 @@
 
 ## Official Resources
 
+- [The official template for creating custom Blocks](https://github.com/githubnext/blocks-template)
+
 ## Tutorials and Blog Posts
 
 ### Beginner Guides
