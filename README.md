@@ -14,7 +14,7 @@
 
 ## Official Resources
 
-- [The official template for creating custom Blocks](https://github.com/githubnext/blocks-template)
+* [The official template for creating custom Blocks](https://github.com/githubnext/blocks-template)
 
 ## Tutorials and Blog Posts
 
@@ -26,20 +26,19 @@
 
 ### IDE
 
-- [The IDE Block](https://github.com/Krzysztof-Cieslak/IDE-Block)  
-- [The IDE Block: Rust Sample](https://github.com/Krzysztof-Cieslak/RustSample/)  
-- [The IDE Block: .NET Sample](https://github.com/Krzysztof-Cieslak/CSharpSample)  
-- [The IDE Block: Go Sample](https://github.com/Krzysztof-Cieslak/GoSample) 
-- [The IDE Block: Dart Sample](https://github.com/Krzysztof-Cieslak/DartSample) 
+* [The IDE Block](https://github.com/Krzysztof-Cieslak/IDE-Block)  
+* [The IDE Block: Rust Sample](https://github.com/Krzysztof-Cieslak/RustSample/)  
+* [The IDE Block: .NET Sample](https://github.com/Krzysztof-Cieslak/CSharpSample)  
+* [The IDE Block: Go Sample](https://github.com/Krzysztof-Cieslak/GoSample) 
+* [The IDE Block: Dart Sample](https://github.com/Krzysztof-Cieslak/DartSample) 
 
 ### Visualisations
 
-- [Visualize folders and files in a repository](https://github.com/Wattenberger/blocks)
-- [Visualize images in a repository](https://github.com/Wattenberger/blocks)
-- [Visualize the sizes of files in a directory](https://github.com/mattrothenberg/directory-size-block)
+* [Visualize folders and files in a repository](https://github.com/Wattenberger/blocks)
+* [Visualize images in a repository](https://github.com/Wattenberger/blocks)
+* [Visualize the sizes of files in a directory](https://github.com/mattrothenberg/directory-size-block)
 
 ### Community
-
 
 
 ### Miscellaneous
