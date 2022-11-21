@@ -23,6 +23,12 @@
 
 ### What is GitHub Blocks?
 
+### Blocks
+
+## Visualisations
+
+- [Visualize the sizes of files in a directory](https://github.com/mattrothenberg/directory-size-block)
+
 ### Miscellaneous
 
 ## Talks and Videos
