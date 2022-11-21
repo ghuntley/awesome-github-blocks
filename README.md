@@ -7,7 +7,6 @@
 ## Contents
 
 * [Official Resources](#official-resources)
-* [Books](#books)
 * [Tutorials and Blog Posts](#tutorials-and-blog-posts)
 * [Beginner Guides](#beginner-guides)
 * [Miscellaneous](#miscellaneous)
