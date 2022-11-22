@@ -43,7 +43,11 @@
 
 ### Miscellaneous
 
+* [Interactive code walkthrougs using Code Hike](https://github.com/Krzysztof-Cieslak/CodeHike-block) 
+
 ## Talks and Videos
+
+* [Building with :heart: @ GitHub Universe 2022](https://www.youtube.com/watch?v=4NuK415HYTI)
 
 ## License
 
