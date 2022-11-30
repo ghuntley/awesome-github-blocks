@@ -37,6 +37,7 @@
 * [Visualize folders and files in a repository](https://github.com/Wattenberger/blocks)
 * [Visualize images in a repository](https://github.com/Wattenberger/blocks)
 * [Visualize the sizes of files in a directory](https://github.com/mattrothenberg/directory-size-block)
+* [Code Diffs](https://github.com/SferaDev/blocks/tree/main/blocks/diff-block)
 
 ### Community
 
